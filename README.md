@@ -22,13 +22,6 @@ Welcome to the **Bubble Game**! A fun and interactive game where your task is to
 
 ---
 
-## 📸 Preview  
-
-![Bubble Game Demo](https://via.placeholder.com/800x400.png?text=Add+Your+Game+Screenshot+Here)  
-*Add a live screenshot or gameplay GIF here to showcase your project.*
-
----
-
 ## 🛠️ How to Play  
 
 1. Click the link: [Bubble Game](https://karanbisht45.github.io/bubble-game/)  
